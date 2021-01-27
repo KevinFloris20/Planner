@@ -88,7 +88,7 @@ body {font-family: Verdana, sans-serif;}
 #save:hover{
     background-color: gray;
 }
-#text{
+.text{
     width: 100%;
     border-color: #1abc9c;
 }
